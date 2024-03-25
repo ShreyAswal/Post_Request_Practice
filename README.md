@@ -11,11 +11,11 @@ Clone the repository: git clone https://github.com/your-username/Post_Request_Pr
 Open the index.html file in your web browser.
 
 # Technologies
-HTML
-CSS
-JSX
-React
-HTTP
+- HTML
+- CSS
+- JSX
+- React
+- HTTP Request
 
 # Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request.
