@@ -1,7 +1,7 @@
 # React_Post_Request_Practice
 This is a small practice to send data to a server through a http POST request.
 
-#Features
+# Features
 - Sends post request
 - Responsive for all devices
 
